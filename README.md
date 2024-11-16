@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+  <div align="center">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rao-abhishek&theme=tokyo-night" />
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rao-abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="rao-abhishek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rao-abhishek" alt="rao-abhishek" /></a> </p>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/rao-abhishek/rao-abhishek/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-<!--     ![](https://github-readme-stats.vercel.app/api?username=rao-abhishek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=rao-abhishek&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rao-abhishek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/> -->
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=rao-abhishek&theme=tokyo-night)
-  </div>
-</details>
+
+
 
 - 💬 Ask me about **React, Node.js, Typescript/Javascript, Java, MySQL, Python, ML**
 
