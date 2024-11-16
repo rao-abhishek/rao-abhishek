@@ -4,9 +4,9 @@
 <div align="center">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rao-abhishek&theme=tokyo-night"" alt="rao-abhishek" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rao-abhishek&theme=tokyo-night" /></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rao-abhishek&show_icons=true&locale=en&layout=compact&theme=tokyo-night"" alt="rao-abhishek" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rao-abhishek&theme=tokyo-night" /></p>
 </div>
 
 <br>
